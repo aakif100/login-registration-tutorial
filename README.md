@@ -16,7 +16,7 @@ Dive into the vibrant world of user authentication with this interactive tutoria
 <br>
 -Front-end enthusiasts seeking to experiment with creative design.
 
-<br>
+
 <br>
 -Anyone wanting to add a splash of excitement to their login flow.
 
