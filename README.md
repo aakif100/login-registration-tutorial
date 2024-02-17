@@ -8,9 +8,16 @@ This tutorial focuses on creating a login and registration system with a slightl
 <br>
 Dive into the vibrant world of user authentication with this interactive tutorial! Learn how to build a sleek, neon-themed login and registration system using HTML, CSS, and your coding prowess. This project is perfect for:
 <br>
+<br>
 -Web development beginners eager to grasp login functionality.
+
+<br>
 -Front-end enthusiasts seeking to experiment with creative design.
+
+<br>
 -Anyone wanting to add a splash of excitement to their login flow.
+
+<br>
 ## Features
 
 - **Neon-based Theme**: Engage users with a visually appealing neon-based theme that adds flair to the login and registration pages.
