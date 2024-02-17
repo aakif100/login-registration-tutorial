@@ -6,6 +6,8 @@ Welcome to the Login Registration Tutorial repository! This project aims to prov
 
 This tutorial focuses on creating a login and registration system with a slightly neon-themed design. The login page features an eye-catching interface, and upon clicking the "Sign Up" button, users are seamlessly redirected to the registration page. The registration page, while keeping things simple, adds a touch of creativity to the user experience.
 <br>
+
+<br>
 Dive into the vibrant world of user authentication with this interactive tutorial! Learn how to build a sleek, neon-themed login and registration system using HTML, CSS, and your coding prowess. This project is perfect for:
 <br>
 <br>
