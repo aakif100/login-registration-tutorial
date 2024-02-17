@@ -23,6 +23,10 @@ Dive into the vibrant world of user authentication with this interactive tutoria
 <br>
 <br>
 
+## Preview
+
+
+
 ## Features
 
 - **Neon-based Theme**: Engage users with a visually appealing neon-based theme that adds flair to the login and registration pages.
