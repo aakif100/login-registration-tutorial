@@ -36,13 +36,10 @@ https://github.com/aakif100/login-registration-tutorial/assets/137098447/5fe4d2f
 - **Educational walkthrough:** Learn practical web development concepts through hands-on coding.
 ## How to Use
 
-1. **Clone the Repository**: Clone this rep
-
-
-
-ository to your local machine using `git clone https://github.com/aakif100/login-registration-tutorial.git`.
-2. **Open in Browser**: Navigate to the cloned directory and open the `index.html` file in your preferred web browser.
-3. **Explore and Learn**: Explore the codebase to understand how the login and registration pages are designed and implemented. Experiment with making changes to customize the project according to your preferences or learning objectives.
+1. **Clone the Repository**: <br>
+2. Clone this repository to your local machine using `git clone https://github.com/aakif100/login-registration-tutorial.git`. <br>
+3. **Open in Browser**: Navigate to the cloned directory and open the `index.html` file in your preferred web browser. <br>
+4. **Explore and Learn**: Explore the codebase to understand how the login and registration pages are designed and implemented. Experiment with making changes to customize the project according to your preferences or learning objectives.
 
 
 ## Contributions
